@@ -1,0 +1,66 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AD5231
+F https://docs.rs-online.com/2ff9/0900766b813d195f.pdf
+$ENDCMP
+#
+$CMP ADXL345
+D 3-Axis MEMS Accelerometer, 2/4/8/16g range, I2C/SPI, LGA-14
+K 3-axis accelerometer i2c spi mems
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ADXL345.pdf
+$ENDCMP
+#
+$CMP MAX14595ETA
+D Low-Power Dual-Channel Logic-Level Translator
+K Logic-Level, logic level, shift lever, i2c shift, max14595
+F https://datasheets.maximintegrated.com/en/ds/MAX14595.pdf
+$ENDCMP
+#
+$CMP MAX1921EU
+D DC DC converter SOT23 Package
+K DC/DC Step Down
+F https://datasheets.maximintegrated.com/en/ds/MAX1920-MAX1921.pdf
+$ENDCMP
+#
+$CMP MAX30101
+F https://datasheets.maximintegrated.com/en/ds/MAX30101.pdf
+$ENDCMP
+#
+$CMP MAX30205
+D Human body temperature sensor
+F https://datasheets.maximintegrated.com/en/ds/MAX30205.pdf
+$ENDCMP
+#
+$CMP MAX4230
+F https://datasheets.maximintegrated.com/en/ds/MAX4230-MAX4234.pdf
+$ENDCMP
+#
+$CMP MCP73831-2
+D Li-ion battery charger 4,20 V
+$ENDCMP
+#
+$CMP SX1273
+D 860 MHz to 1020 MHz Low Power Long Range Transceiver, spreading factor from 6 to 9, LoRA, QFN-28
+K low-power lora transceiver
+F https://www.semtech.com/uploads/documents/sx1272.pdf
+$ENDCMP
+#
+$CMP SX1276
+D 860 MHz to 1020 MHz Low Power Long Range Transceiver, spreading factor from 6 to 12, LoRA, QFN-28
+K low-power lora transceiver
+F https://www.semtech.com/uploads/documents/sx1272.pdf
+$ENDCMP
+#
+$CMP TC58NVG2S0HBAI6
+D Flash memory 4GBit Toshiba (KIOXA)
+K NAND EEPROM EPROM E2PROM FLASH
+F https://business.kioxia.com/info/docget.jsp?did=14842&prodName=TC58NVG2S0HBAI6
+$ENDCMP
+#
+$CMP shtc3
+D Humidity and temperature Sensor IC small DFN4 packabe, 1,6~3.6 V, +/- 2% RH and +/- 0.2ºC
+K sensor temperature humidity, temp & hum, temp, hum
+F https://www.sensirion.com/fileadmin/user_upload/customers/sensirion/Dokumente/2_Humidity_Sensors/Datasheets/Sensirion_Humidity_Sensors_SHTC3_Datasheet.pdf
+$ENDCMP
+#
+#End Doc Library

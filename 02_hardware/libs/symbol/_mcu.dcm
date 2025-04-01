@@ -1,0 +1,25 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CMWX1ZZABZ-078
+D LoRa/SigFox Module, STM32L082 MCU, muRata CMWX1ZZABZ
+K iot lora sigfox
+F https://wireless.murata.com/RFM/data/type_abz.pdf
+$ENDCMP
+#
+$CMP CMWX1ZZABZ-091
+D LoRa/SigFox Module, STM32L072 MCU, muRata CMWX1ZZABZ
+K iot lora sigfox
+F https://wireless.murata.com/RFM/data/type_abz.pdf
+$ENDCMP
+#
+$CMP ESP32-C3
+D Ultra-Low-Power Soc with RISC-V Single-Core CPU Supporting IEEE 802.11b/g/n (2.4GHz Wi-Fi) and Bluetooth 5 (LE)
+K esp32, esp32c3, esp32-c3, esp32, wifi, wifi bt, bt mcu, mcu bt
+F https://www.espressif.com/sites/default/files/documentation/esp32-c3_datasheet_en.pdf
+$ENDCMP
+#
+$CMP ESP32-S2
+F https://www.mouser.es/datasheet/2/891/esp32_s2_datasheet_en-1773066.pdf
+$ENDCMP
+#
+#End Doc Library

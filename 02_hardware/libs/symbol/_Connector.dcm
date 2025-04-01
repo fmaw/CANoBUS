@@ -1,0 +1,12 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Audio_Jack2_PJ-3900
+D Connector audio computer front pannel with sensor detector.
+F https://datasheet.lcsc.com/lcsc/1810121713_Korean-Hroparts-Elec-PJ-3900-04_C151839.pdf
+$ENDCMP
+#
+$CMP EdgeBoard_TE_1367073-1
+F https://www.lcsc.com/product-detail/Card-Edge-Connectors_TE-Connectivity-1367073-1_C210158.html
+$ENDCMP
+#
+#End Doc Library

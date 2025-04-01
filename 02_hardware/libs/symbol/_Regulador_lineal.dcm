@@ -1,0 +1,14 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM2940
+D Linear regulator 26 Volts fixed @ 15 Volts
+K ldo
+$ENDCMP
+#
+$CMP LM317T
+D Linear voltage regulator from 1,25 V to 30 V
+K ldo
+F https://www.ti.com/lit/ds/symlink/lm317.pdf
+$ENDCMP
+#
+#End Doc Library
